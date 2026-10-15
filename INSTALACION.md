@@ -1,4 +1,4 @@
-# Instalación / Installation
+# Instalación
 
 [Volver al README](README.md)
 
