@@ -57,8 +57,6 @@ Esta sección recopila errores, problemas de rendimiento y posibles soluciones a
 - FPS durante el juego y durante las cinemáticas.
 - Temperaturas y porcentaje de uso de CPU y GPU.
 
-Consultar `PRUEBAS.md` para ver las configuraciones y los resultados registrados.
-
 ## 4. El juego se cierra al cargar una partida o un nivel
 
 **Síntoma:** el juego abre, pero se cierra durante la carga o al comenzar a jugar.
